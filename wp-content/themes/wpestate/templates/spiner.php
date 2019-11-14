@@ -1,0 +1,1 @@
+<div class="loader" id="listing_loader"></div>    

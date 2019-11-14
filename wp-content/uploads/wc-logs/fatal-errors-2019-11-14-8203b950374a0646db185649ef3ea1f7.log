@@ -1,0 +1,42 @@
+2019-11-14T01:12:06+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected '2' (T_LNUMBER)
+
+2019-11-14T01:23:09+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 112 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:23:45+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:24:02+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:25:13+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:25:35+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:25:41+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:25:50+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:25:56+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:26:17+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 108 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:26:29+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 99 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:28:06+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 111 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:28:14+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 111 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:28:41+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 111 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T01:28:51+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 111 行的 syntax error, unexpected ' return' (T_STRING)
+
+2019-11-14T02:49:16+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 148 行的 Cannot redeclare salong_remove_my_account_links() (previously declared in /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php:127)
+
+2019-11-14T02:49:24+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 148 行的 Cannot redeclare salong_remove_my_account_links() (previously declared in /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php:127)
+
+2019-11-14T02:50:25+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php 中第 148 行的 Cannot redeclare salong_remove_my_account_links() (previously declared in /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/functions.php:127)
+
+2019-11-14T02:53:41+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/template-parts/hypermarket-header-toolbar.php 中第 25 行的 syntax error, unexpected ' ' (T_STRING)
+
+2019-11-14T02:54:22+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/template-parts/hypermarket-header-toolbar.php 中第 25 行的 syntax error, unexpected ' ' (T_STRING)
+
+2019-11-14T02:54:30+00:00 CRITICAL /Applications/MAMP/htdocs/wordpress/wp-content/themes/hypermarket/template-parts/hypermarket-header-toolbar.php 中第 25 行的 syntax error, unexpected ' ' (T_STRING)
+

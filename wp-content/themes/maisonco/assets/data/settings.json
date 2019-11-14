@@ -1,0 +1,79 @@
+{
+    "custom_css": "",
+    "thememods": {
+        "nav_menu_locations": [],
+        "osf_dev_mode": "1",
+        "osf_blog_archive_style": 1,
+        "osf_starter_settings": true,
+        "custom_css_post_id": -1,
+        "osf_theme_custom_style": "",
+        "osf_theme_google_fonts": "https:\/\/fonts.googleapis.com\/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMarcellus+SC%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&subset=latin%2Clatin-ext",
+        "osf_typography_general_heading_font": {
+            "family": "Marcellus SC",
+            "subsets": "latin-ext",
+            "fontWeight": "400"
+        },
+        "osf_typography_general_body_font": {
+            "family": "Montserrat",
+            "subsets": "latin-ext",
+            "fontWeight": "400"
+        },
+        "osf_typography_general_body_font_size": "14",
+        "osf_typography_general_heading_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_page_title_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_page_title_heading_line_height": "30",
+        "osf_typography_page_title_breadcrumb_heading_line_height": "30",
+        "osf_typography_sidebar_title_letter_spacing": "0",
+        "osf_typography_sidebar_title_padding_top": "60",
+        "osf_typography_sidebar_title_padding_bottom": "60",
+        "osf_typography_sidebar_title_margin_top": "0",
+        "osf_typography_sidebar_title_margin_bottom": "40",
+        "osf_typography_sidebar_font_style": {
+            "italic": false,
+            "underline": false,
+            "fontWeight": false,
+            "uppercase": true
+        },
+        "osf_typography_button_font_size": "12",
+        "osf_colors_general_primary": "#cabe9f",
+        "osf_colors_general_secondary": "#3f4448",
+        "osf_colors_general_heading": "#3f4448",
+        "osf_colors_general_body": "#9ea0a6",
+        "background_color": "ffffff",
+        "osf_colors_page_title_heading_color": "#ffffff",
+        "osf_colors_page_title_breadcrumb_color": "#cabe9f",
+        "osf_colors_sidebar_title_color": "#000000",
+        "osf_colors_sidebar_color": "#555555",
+        "osf_layout_general_content_width_px": "1200",
+        "osf_layout_general_gutter_width": "30",
+        "osf_layout_general_content_width_padding": "15",
+        "osf_layout_general_layout_mode": "wide",
+        "osf_layout_general_layout_boxed_width": "1170",
+        "osf_layout_general_layout_boxed_offset": "30",
+        "osf_layout_page_title_style": "right-left",
+        "osf_layout_page_title_height": "210",
+        "osf_header_enable_builder": true,
+        "osf_header_builder": "header-01",
+        "osf_fixed_footer": false,
+        "osf_footer_layout": "footer-01",
+        "osf_back_to_top_footer": true,
+        "osf_typography_page_title_heading_font_size": "36",
+        "osf_colors_page_title_bg_position": "center center",
+        "osf_layout_page_title_padding_top": "20",
+        "osf_layout_page_title_padding_bottom": "20",
+        "osf_colors_page_title_breadcrumb_color_hover": "#ffffff",
+        "osf_colors_page_title_bg": "#3f4448",
+        "osf_layout_pagination_style": "4",
+        "osf_socials": true
+    }
+}

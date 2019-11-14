@@ -1,0 +1,61 @@
+/*
+* Author: SpicePress
+* Created by: Shahid (Scientech IT)
+* Copyright (c) 2017 SpicePress
+* Date: 1 Dec, 2017
+* http://www.spicethemes.com
+* Name: default.css
+*/
+
+/*===================================================================================*/
+/*	MENUBAR SECTION
+/*===================================================================================*/
+
+/* Navbar Classic */
+.navbar-classic .navbar-nav > li > a:hover, 
+.navbar-classic .navbar-nav > li > a:focus {
+    background-color: transparent;
+    color: #ce1b28;
+}
+.navbar-classic .navbar-nav > .open > a,
+.navbar-classic .navbar-nav > .open > a:hover,
+.navbar-classic .navbar-nav > .open > a:focus { 
+	background-color: transparent; 
+	color: #ce1b28; 
+}
+.navbar-classic.navbar .navbar-nav > .active > a, 
+.navbar-classic.navbar .navbar-nav > .active > a:hover, 
+.navbar-classic.navbar .navbar-nav > .active > a:focus {
+	background-color: transparent;
+	color: #ce1b28;
+    border-top: 2px solid #ce1b28;
+}
+
+/*Dropdown Menus & Submenus Css----------------------------------------------------------*/
+
+.dropdown-menu {
+	background-color: #21202e;
+	box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.5);
+	border-top: 2px solid #ce1b28;
+	border-bottom: 2px solid #ce1b28;	
+}
+
+.navbar .navbar-nav .open .dropdown-menu > .active > a, 
+.navbar .navbar-nav .open .dropdown-menu > .active > a:hover, 
+.navbar .navbar-nav .open .dropdown-menu > .active > a:focus { 
+	background-color: transparent; 
+	color: #ce1b28;
+}
+
+/*===================================================================================*/
+/*	CART ICON 
+/*===================================================================================*/
+
+.cart-header:hover > a { color: #ce1b28; }
+.cart-header > a .cart-total { background: #ce1b28; }
+
+/*===================================================================================*/
+/*	HEADER CONTACT WIDGET 
+/*===================================================================================*/
+
+.contact-icon i { color: #ce1b28; }

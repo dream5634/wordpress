@@ -1,0 +1,1555 @@
+# Translation of Themes - Hypermarket in Chinese (China)
+# This file is distributed under the same license as the Themes - Hypermarket package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-17 08:06:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Hypermarket\n"
+
+#. Description of the theme
+msgid "Hypermarket WordPress theme is all about design. It offers a beautiful and impressive look for your site, which is one of the ways through which you can retain traffic. In case you want to start an e-commerce project, the Hypermarket theme is one of the first things you need. The whole design of theme is ultra-responsive and Retina ready, offering you a site that can be accessed from any device, no matter the size or technology of its screen. Try Hypermarket now!"
+msgstr "Hypermarket WordPress主题是关于设计。它为您的站点提供了一个美丽而令人印象深刻的外观，这是您可以保留流量的方式之一。如果你想开始一个电子商务项目，那么Hypermarket就是您首选的主题之一。主题的整体设计是超响应和Retina准备，为您提供可以从任何设备访问的站点，无论其屏幕的大小或技术。立即尝试大卖场！"
+
+#. Theme Name of the theme
+#: includes/classes/class-hypermarket-welcome-screen.php:60
+msgid "Hypermarket"
+msgstr "Hypermarket"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:347
+msgid "Hypermarket theme is fully compatible and tested with most popular WordPress plugin that supports the creation of multilingual layouts."
+msgstr "Hypermarket主题与WordPress的WooCommerce插件完全兼容。它包括WooCommerce页面，短代码和小工具的完全设计集成。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:345
+msgid "WPML compatible"
+msgstr "与WPML兼容"
+
+#: includes/classes/class-customizer.php:129
+msgid "Upgrade Now!"
+msgstr "现在升值吧！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:339
+msgid "An easy, lightweight way to let your users sign up for several different MailChimp lists by creating multiple instances of the widget."
+msgstr "一种简单，轻便的方法，让您的用户通过创建多个小工具的实例来注册几个不同的MailChimp列表。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:337
+msgid "MailChimp widget"
+msgstr "MailChimp小工具"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:333
+msgid "Toggle the display of core elements and enable some that are not included in WooCommerce core."
+msgstr "切换核心元素的显示，并启用一些不包括在WooCommerce内核中。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:331
+msgid "Product archive customizer"
+msgstr "产品归档定制工具"
+
+#: woocommerce/cart/cart.php:69
+msgid "Available on backorder"
+msgstr "质量问题支持退/换货"
+
+#: includes/classes/class-customizer.php:52
+msgid "Logo"
+msgstr "站点图标"
+
+#: includes/classes/class-payment-method-icons-widget.php:121
+msgid "Subtitle"
+msgstr "副标题"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:325
+msgid "Create a simple contact form using Ajax technology and advanced email address validation."
+msgstr "使用Ajax技术和高级电子邮件地址验证创建一个简单的联系表单。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:323
+msgid "Contact form"
+msgstr "联系表"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:319
+msgid "Easy-to-use team profile management system for Hypermarket theme. Load in your team members and display their profiles via a shortcode."
+msgstr "适用于Hypermarket主题的易于使用的团队简介管理系统。加载您的团队成员，并通过短码显示他们的个人资料。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:317
+msgid "Team members"
+msgstr "团队成员"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:311
+msgid "Easily create, order and publicize FAQs. Optionally, display the questions in groups by tagging them, and even load them closed or readily open."
+msgstr "轻松创建，排列和宣传常见问题解答。可选地，通过标记它们来分组显示问题，甚至将它们加载到封闭或容易打开。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:309
+msgid "FAQ"
+msgstr "常见问题"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:305
+msgid "Embed Google Maps with custom markers and info title on your WordPress website within a few seconds."
+msgstr "很快就能在您的WordPress站点中嵌入Google地图，并附上自定义标记和信息标题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:303
+msgid "Google Maps"
+msgstr "Google地图"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:297
+msgid "Convert WooCommerce sidebar into toggle-able filters bar & help customers to find what they really want."
+msgstr "将WooCommerce侧边栏转换为可切换的过滤条，并帮助客户找到真正需要的内容。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:295
+msgid "Shop filters bar"
+msgstr "店铺筛选"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:291
+msgid "Select the perfect layout for your shop header. There are 3 pre-designed layouts and each one provides a special design for your header area."
+msgstr "为您的商店页眉选择完美的布局。这里有3个预先设计的布局，每个都为您的标题区提供了一个特殊的设计。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:289
+msgid "Header variations"
+msgstr "页眉变化"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:283
+msgid "Enhance the customer's product browsing experience by replacing the default behavior of WooCommerce pagination and loading products via Ajax!"
+msgstr "通过替换WooCommerce分页的默认行为并通过Ajax加载产品来增强客户的产品浏览体验！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:281
+msgid "Load more products"
+msgstr "加载更多"
+
+#: woocommerce/myaccount/form-login.php:112
+msgid "Login here"
+msgstr "在此登录"
+
+#: woocommerce/myaccount/form-login.php:112
+msgid "Already have an account?"
+msgstr "已经有账户？"
+
+#: woocommerce/myaccount/form-login.php:76
+msgid "Sign up, it's free."
+msgstr "免费注册。"
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Signup here"
+msgstr "在这里注册"
+
+#: woocommerce/myaccount/form-login.php:67
+msgid "Don't have an account?"
+msgstr "还没有账户？"
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "You are not logged in."
+msgstr "您还没有登录。"
+
+#: includes/classes/class-woocommerce.php:150
+msgid "Type and hit enter"
+msgstr "输入并按Enter键"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:277
+msgid "Unique homepage layout that prominently displays a variety of products in an intuitive tabbed interface."
+msgstr "独特的主页布局，在直观的选项卡界面中突出显示各种产品。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:275
+msgid "Tabbed interface"
+msgstr "分项界面"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:269
+msgid "Add an elegant hero component to the homepage template of your Hypermarket powered shop, or on any page via shortcode - Watch conversions soar!"
+msgstr "添加一个优雅的巨幕组件到您使用Hypermarket主题的​​商店的主页模板，或任何页面上通过短码 - 观看转换飙升！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:267
+msgid "Hero product"
+msgstr "巨幕商品"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:263
+msgid "Easily remove the page title from specific single pages, shop or homepage template."
+msgstr "从特定的单页，商店或主页模板轻松删除页面标题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:261
+msgid "Page title toggle"
+msgstr "页面标题切换"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:255
+msgid "Place the color filter widget on your shop & allow visitors to browse your products by using color filters."
+msgstr "将颜色过滤器小工具放置在您的商店，并允许访问者使用滤色镜浏览您的产品。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:253
+msgid "Product color filters"
+msgstr "商品颜色选择"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:249
+msgid "Allows you to optionally, extend, add or remove the default and core WooCommerce product order by options on the shop page."
+msgstr "允许您通过商店页面上的选项来可选地扩展，添加或删除默认和核心WooCommerce产品订单。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:247
+msgid "Extend product sorting"
+msgstr "增加产品分类"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:241
+msgid "Easy access to any fonts you want from Google Web Fonts, the best free fonts available. Choose between more than 600 fonts."
+msgstr "您能从Google Web字体库轻易地获取到您想要的任何字体。Google Web字体库拥有了超过600种顶尖免费的字体可选。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:239
+msgid "Typography"
+msgstr "排版"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:235
+msgid "Easily change the colors of all the main elements of the site to give your shop a unique look."
+msgstr "轻松改变站点所有主要元素的颜色，为您的商店提供独特的外观。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:233
+msgid "Color scheme"
+msgstr "配色方案"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:227
+msgid "A clean and easy-to-use testimonials management system to load in what your customers are saying about your business."
+msgstr "一个简介，易用的客户评价管理系统，用来加载客户对您的业务的评论。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:225
+msgid "Testimonials"
+msgstr "褒奖"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:221
+msgid "Toggle the visibility and reorder the homepage components or any function hooked by Hypermarket theme or [H/M] Plus plugin."
+msgstr "切换可见性并重新排列主页组件或任何由Hypermarket主题或[H / M] Plus插件挂钩的功能。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:219
+msgid "Homepage control"
+msgstr "主页控件"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:213
+msgid "A CTA is an ideal way to convert more of your passive website visitors into active leads and customers."
+msgstr "行为召唤（CTA）是将更多被动站点访问者转化为主动潜在客户和客户的理想方式。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:211
+msgid "Call to action widget"
+msgstr "行为召唤（CTA）小工具"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:207
+msgid "Service widget makes it really easy to select a Google material icon to go along with your feature."
+msgstr "服务窗口小工具使您轻松选择Google资料图标来跟随您的功能。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:205
+msgid "Service widget"
+msgstr "服务小工具"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:199
+msgid "You can update the plugin automatically via the WordPress admin panel providing you have activated a valid license key."
+msgstr "激活了有效的许可证密钥之后，您可以通过WordPress管理面板自动更新插件。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:197
+msgid "Automatic updates"
+msgstr "自动更新"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:193
+msgid "A full-width widgetized region which will display any widget added to this region above the Hypermarket footer widget area."
+msgstr "全宽度的小工具区域，将显示添加到Hypermarket页脚小工具区域上方的任何窗口小工具。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:191
+msgid "Footer bar"
+msgstr "页脚栏"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:185
+msgid "Embed YouTube or Vimeo videos on a call to action box using a popup lightbox overlay display."
+msgstr "使用弹出式叠加层显示，在行为召唤（CTA）框中嵌入YouTube或Vimeo视频。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:183
+msgid "Video popup"
+msgstr "视频弹出式窗口"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:179
+msgid "Promote your sale campaigns in WooCommerce. Show a countdown box with the product on sale."
+msgstr "在WooCommerce推广您的销售活动。显示产品销售的倒计时框。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:177
+msgid "Product countdown"
+msgstr "商品倒计时"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:82
+msgid "Child Theme"
+msgstr "子主题"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:376
+msgid "Make any customization using a child theme"
+msgstr "使用子主题进行任何自定义"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:378
+msgid "If you want to customize the theme at coding level, not just CSS, we would strongly suggest using a child theme for that. A child theme allows you to override the parent theme's functions, template files and CSS so you will be able to adjust them as you want."
+msgstr "如果要在编码级别自定义主题，而不仅仅是CSS，我们强烈建议为此使用一个子主题。子主题可以覆盖父主题的功能，模板文件和CSS，以便您可以根据需要进行调整。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:380
+msgid "To download a blank Hypermarket child theme, please navigate to:"
+msgstr "要下载一个空白的Hypermarket子主题，请浏览："
+
+#: includes/classes/class-hypermarket-welcome-screen.php:383
+msgid "Download Hypermarket Child Theme"
+msgstr "下载Hypermarket子主题"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:387
+msgid "Overriding Parent Theme's Template Files"
+msgstr "覆盖父主题的模板文件"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:388
+msgid "If you want to edit the code in the theme's template files like \"header.php\", \"index.php\", etc, you can just copy the file from the parent theme and put it into your child theme folder then edit it from there."
+msgstr "如果要编辑主题模板文件中的代码，如“header.php”，“index.php”等，您可以从父主题中复制文件，并将其放入您的子主题文件夹，然后从那里编辑。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:389
+msgid "Overriding Parent Theme's Functions"
+msgstr "覆盖父主题的功能"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:390
+msgid "If you want to edit the functions of the parent theme, for example, the \"hypermarket_comments_list()\" function, you can do that by copying only the function from the parent theme and put it into the \"functions.php\" file of your child theme."
+msgstr "如果要编辑父主题的功能，例如“hypermarket_comments_list()”功能，您可以通过仅复制父主题中的函数并将其放入您的子主题的“functions.php”文件中。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:391
+msgid "* Note that, you must copy only the \"function() {...}\" part, NOT including the \"function_exists()\" wrapper."
+msgstr "*请注意，您只能复制“function() {...}”部分，而不包括“function_exists()”包装器。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:392
+msgid "Overriding Parent Theme's CSS"
+msgstr "覆盖父主题的CSS"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:393
+msgid "You can do this by either using the \"Custom CSS\" field in our Customizer or adding your custom CSS code into the \"style.css\" file of your child theme."
+msgstr "您可以使用自定义程序中的“自定义CSS”字段或将自定义CSS代码添加到子主题的“style.css”文件中。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:394
+msgid "Remember!"
+msgstr "请记住！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:395
+msgid "Whenever you finished updating the parent theme, make sure to check all the code you use in your child theme and update them as necessary to reflect any changes in the parent theme. You might back up your custom code first, update the files with the latest version, then apply your custom code back."
+msgstr "每当您完成更新父主题时，请确保检查您在子主题中使用的所有代码，并根据需要进行更新以反映父主题中的任何更改。您可以先备份您的自定义代码，使用最新版本更新文件，然后再应用自定义代码。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:396
+msgid "By doing this, it ensures that the files and code in your child theme are always up-to-date and to prevent any problem that might occur."
+msgstr "这么做可以确保您的子主题中的文件和代码始终是最新的，并且可以防止可能发生的任何问题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:516
+msgid "Buy Now"
+msgstr "现在购买"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:523
+msgid "What is a child theme?"
+msgstr "什么是子主题？"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:525
+msgid "A Child Theme is a theme that inherits the same functionality and styling of another theme, called the parent theme. By creating and working on a child theme, you can add, modify or disable parts of your site without changing the original files of the parent theme."
+msgstr "子主题是继承与另一主题相同功能和样式的主题，称为父主题。通过创建和处理子主题，您可以添加，修改或禁用部分站点，而无需更改父主题的原始文件。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:526
+msgid "You do not have to worry anymore about updates to the parent theme since there is no need to exclude your modified files from the updating process or to re-add your changes to fit the new version. After the creation of a Child Theme, you end up significantly speeding up your development time."
+msgstr "您不必担心父主题的更新，因为不需要将修改的文件从更新过程中排除，或者重新添加更改以适应新版本。创建一个儿童主题之后，您将大大加快开发时间。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:530
+msgid "Gain direct access to us"
+msgstr "直接联系我们"
+
+#: includes/classes/class-customizer.php:128
+msgid "Hypermarket Plus"
+msgstr "Hypermarket 增强"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:517
+msgid "Live Demo"
+msgstr "在线演示"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:514
+msgid "Being on the cutting edge of WordPress development is something we wanted to do from the start. Because of that, we made sure that we avoided the use of clunky additional admin panels and instead, opted to utilize a powerful, options panel using Customizer API. With this setup, you can preview all of the changes you make to your site live without any need to switch windows or refresh the browser in addition to searching for exactly what you need. When you are happy with your changes, hit \"Save Changes\" button and your updates will go live."
+msgstr "在WordPress开发的前沿是我们从一开始就想做的。因此，我们确保避免使用笨重的附加管理面板，而是选择使用定制器API使用功能强大的选项面板。通过此设置，您可以预览您对站点的所有更改，而无需切换窗口或刷新浏览器，除了正确搜索所需的内容。当您对更改感到满意时，点击“保存更改”按钮，您的更新将会生效。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:507
+#: includes/classes/class-hypermarket-welcome-screen.php:511
+msgid "Hypermarket Plus!"
+msgstr "Hypermarket 增强！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:171
+msgid "Image & content slider which supports touch navigation with a swipe gesture."
+msgstr "支持触摸导航与滑动手势的图像和内容滑块。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:169
+msgid "Hero slider"
+msgstr "巨幕滑块"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:165
+msgid "Optionally remove the Hypermarket credit and add your own custom copyright message, including HTML."
+msgstr "（可选）删除Hypermarket主题的版权，并添加您自己的自定义版权信息，包括HTML。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:163
+msgid "Copyright credit"
+msgstr "版权信息"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:157
+msgid "Buttons designed to be minimal, yet powerful, with support of popular networks to make your products go viral and get more traffic."
+msgstr "最小化按钮设计，功能强大，支持流行的网络，使您的产品广泛传播，并获得更多的流量。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:155
+msgid "Share buttons"
+msgstr "分享按钮"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:151
+msgid "An easy way to create sortable lightbox galleries consisting of images & videos."
+msgstr "创建包含图像和视频的可排序灯箱画廊的简单方法。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:149
+msgid "Gallery post type"
+msgstr "画廊帖子类型"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:143
+msgid "Fetch & display post content without the user moving away from the current page."
+msgstr "用户无需离开当前页面即可获取并显示帖子内容"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:141
+msgid "Ajaxify blog posts"
+msgstr "Ajaxify博客文章"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:137
+msgid "Secondary product thumbnail on archives that is revealed when you hover over the main product image."
+msgstr "当您将鼠标悬停在主产品图像上时显示的存档上的辅助产品缩略图。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:135
+msgid "Product image flipper"
+msgstr "产品图像翻转 (PIF)"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:128
+msgid "Everything you need to build stunning e-commerce website in a fast & efficient way."
+msgstr "您以快速高效的方式构建令人惊叹的电子商务站点所需的一切。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:126
+msgid "Are You Still Free? Go Plus Now!"
+msgstr "你还在使用免费版吗？现在获取增强版!"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:117
+msgid "Going on vacation? Use Woo Store Vacation settings to make sure your buyers are not disappointed by buying items and unexpectedly waiting a long time to receive them."
+msgstr "去度假？使用Woo Store Vacation设置，以确保您的买家不会因购买商品并且出乎意料地等待很长时间才能收到商品而失望。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:115
+msgid "Woo Store Vacataion - Put your shop on pause or hold mode for a certain amount of time"
+msgstr "Woo Store Vacation  - 在一段时间内将您的商店设置成暂停或保持模式。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:80
+#: includes/classes/class-hypermarket-welcome-screen.php:601
+msgid "Go Plus!"
+msgstr "获取增强版！"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "首页"
+
+#: woocommerce/single-product/up-sells.php:28
+msgid "You May Also Like&hellip;"
+msgstr "猜您喜欢&hellip;"
+
+#: woocommerce/single-product/related.php:28
+msgid "Related Products"
+msgstr "相关商品"
+
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr "清空"
+
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "This product is currently out of stock and unavailable."
+msgstr "这个商品太抢手啦~已经兜售一空~"
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "Username or email*"
+msgstr "用户名或邮箱地址（必填）"
+
+#: woocommerce/myaccount/form-lost-password.php:29
+msgid "Enter your username or email address. You will receive a link to create a new password via email."
+msgstr "输入您的用户名或邮箱地址。您将收到一条链接，通过电子邮件创建新密码。"
+
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username*"
+msgstr "用户名（必填）"
+
+#: woocommerce/myaccount/form-login.php:82
+msgid "Username"
+msgstr "用户名"
+
+#: woocommerce/myaccount/form-login.php:74
+#: woocommerce/myaccount/form-login.php:104
+msgid "Register"
+msgstr "注册"
+
+#: woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:93
+msgid "Password*"
+msgstr "密码（必填）"
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address*"
+msgstr "用户名或邮箱地址（必填）"
+
+#: woocommerce/myaccount/form-login.php:37
+msgid "Username or email address"
+msgstr "用户名或邮箱地址"
+
+#: woocommerce/myaccount/form-edit-address.php:41
+msgid "Save Address"
+msgstr "保存地址"
+
+#: woocommerce/myaccount/form-edit-address.php:21
+msgid "Shipping Address"
+msgstr "配送地址"
+
+#: woocommerce/myaccount/form-edit-address.php:21
+msgid "Billing Address"
+msgstr "帐单地址"
+
+#: woocommerce/myaccount/form-edit-account.php:71
+msgid "Save changes"
+msgstr "保存修改"
+
+#: woocommerce/myaccount/form-edit-account.php:63
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "Confirm New Password"
+msgstr "确认新密码"
+
+#: woocommerce/myaccount/form-edit-account.php:59
+#: woocommerce/myaccount/form-edit-account.php:60
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "新密码（留空不修改）"
+
+#: woocommerce/myaccount/form-edit-account.php:54
+#: woocommerce/myaccount/form-edit-account.php:55
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "当前的密码（留空不修改）"
+
+#: woocommerce/myaccount/form-edit-account.php:51
+msgid "Password Change"
+msgstr "修改密码"
+
+#: woocommerce/myaccount/form-login.php:88
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "Email address*"
+msgstr "邮箱地址（必填）"
+
+#: woocommerce/myaccount/form-login.php:87
+#: woocommerce/myaccount/form-edit-account.php:45
+msgid "Email address"
+msgstr "邮箱地址"
+
+#: woocommerce/myaccount/form-edit-account.php:36
+msgid "Last name*"
+msgstr "名字（必填）"
+
+#: woocommerce/myaccount/form-edit-account.php:35
+msgid "Last name"
+msgstr "名字"
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "First name*"
+msgstr "姓氏（必填）"
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "First name"
+msgstr "姓氏"
+
+#: woocommerce/myaccount/form-edit-account.php:28
+msgid "Account Details"
+msgstr "账户详情"
+
+#: woocommerce/global/quantity-input.php:34
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "数量"
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr "忘记您的密码？"
+
+#: woocommerce/global/form-login.php:49 woocommerce/myaccount/form-login.php:30
+#: woocommerce/myaccount/form-login.php:54
+msgid "Login"
+msgstr "登录"
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:49
+msgid "Remember me"
+msgstr "记住我"
+
+#: woocommerce/global/form-login.php:36 woocommerce/global/form-login.php:37
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:92
+msgid "Password"
+msgstr "密码"
+
+#: woocommerce/global/form-login.php:32 woocommerce/global/form-login.php:33
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "Username or email"
+msgstr "用户名或邮箱"
+
+#: woocommerce/checkout/form-login.php:31
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr "如果您之前购买过，请在下面的框中输入您的信息。如果您是新客户，请前往“帐单与付款”区域。"
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "点击登录"
+
+#: woocommerce/checkout/form-login.php:25
+msgid "Returning customer?"
+msgstr "已经有账号？"
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "您的订单"
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr "您必需登录后才能结帐。"
+
+#: woocommerce/cart/shipping-calculator.php:94
+msgid "Update Totals"
+msgstr "更新总费用"
+
+#: woocommerce/cart/shipping-calculator.php:89
+msgid "Postcode / ZIP"
+msgstr "邮政编码"
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr "城市"
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select a state&hellip;"
+msgstr "选择一个地区&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "State / county"
+msgstr "省/市"
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country&hellip;"
+msgstr "选择一个国家&hellip;"
+
+#: woocommerce/cart/shipping-calculator.php:25
+msgid "Calculate"
+msgstr "计算"
+
+#: woocommerce/cart/mini-cart.php:107
+#: woocommerce/cart/proceed-to-checkout-button.php:29
+msgid "Checkout"
+msgstr "结算"
+
+#: woocommerce/cart/mini-cart.php:106
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: woocommerce/cart/mini-cart.php:86 woocommerce/cart/mini-cart.php:90
+msgid "Subtotal"
+msgstr "小计"
+
+#: woocommerce/cart/cross-sells.php:28
+msgid "You May be Interested in&hellip;"
+msgstr "您也许喜欢&hellip;"
+
+#: woocommerce/cart/cart.php:125
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Update Cart"
+msgstr "更新购物车"
+
+#: woocommerce/cart/cart.php:120 woocommerce/checkout/form-coupon.php:36
+msgid "Apply Coupon"
+msgstr "使用优惠券"
+
+#: woocommerce/cart/cart.php:116 woocommerce/checkout/form-coupon.php:32
+msgid "Enter coupon code"
+msgstr "输入优惠券代码"
+
+#: woocommerce/cart/cart.php:115 woocommerce/checkout/form-coupon.php:31
+msgid "Coupon:"
+msgstr "优惠券："
+
+#: woocommerce/cart/cart.php:112 woocommerce/checkout/form-coupon.php:27
+msgid "Have discount coupon?"
+msgstr "有折扣优惠券？"
+
+#: woocommerce/cart/mini-cart.php:60 woocommerce/cart/cart.php:95
+msgid "Remove this item"
+msgstr "移除此商品"
+
+#: woocommerce/cart/cart.php:32
+msgid "in cart"
+msgstr "在购物车里"
+
+#: woocommerce/cart/cart.php:31
+msgid "Currently %1$s %2$d item(s)"
+msgstr "目前共 %1$s %2$d 件商品"
+
+#: woocommerce/cart/cart-empty.php:32
+msgid "Return to shop"
+msgstr "返回商店"
+
+#: includes/classes/class-woocommerce.php:572 woocommerce/cart/mini-cart.php:76
+msgid "Most likely, you just have not put anything into your basket."
+msgstr "您有可能还没有把任何商品放进购物车里。"
+
+#: template-parts/woocommerce/hypermarket-single-product-gallery.php:124
+msgid "Awaiting product image"
+msgstr "商品图像待添加"
+
+#: template-parts/woocommerce/hypermarket-shop-by-category.php:19
+msgid "Catalog"
+msgstr "目录"
+
+#: template-parts/woocommerce/hypermarket-no-products-found.php:15
+msgid "It looks like no products were found matching your selection. Maybe try one of the links below or a search?"
+msgstr "很抱歉，没有找到相关商品。试试下边的链接或换个词搜索?"
+
+#: template-parts/woocommerce/hypermarket-no-products-found.php:43
+#: template-parts/woocommerce/hypermarket-new-arrivals.php:13
+msgid "New Arrivals"
+msgstr "店铺上新"
+
+#: template-parts/woocommerce/hypermarket-no-products-found.php:24
+#: template-parts/woocommerce/hypermarket-best-sellers.php:13
+msgid "Best Sellers"
+msgstr "热销商品"
+
+#: template-parts/hypermarket-skip-links.php:15
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: template-parts/hypermarket-skip-links.php:12
+msgid "Skip to navigation"
+msgstr "跳过导航"
+
+#: template-parts/hypermarket-single-paging.php:14
+msgid "Pages:"
+msgstr "页面："
+
+#: template-parts/hypermarket-post-meta.php:41
+msgid "(Sticky)"
+msgstr "（置顶）"
+
+#: template-parts/hypermarket-post-entry.php:50
+msgid "Read More"
+msgstr "阅读更多"
+
+#: template-parts/hypermarket-paging-navigation.php:64
+#: template-parts/hypermarket-paging-navigation.php:66
+#: template-parts/hypermarket-single-paging.php:18
+msgid "Next"
+msgstr "下一页"
+
+#: template-parts/hypermarket-paging-navigation.php:55
+#: template-parts/hypermarket-paging-navigation.php:57
+#: template-parts/hypermarket-single-paging.php:19
+msgid "Prev"
+msgstr "上一页"
+
+#: loop-templates/content-search.php:22
+msgid "Search Results for: %s"
+msgstr "搜索 %s 的结果"
+
+#: loop-templates/content-post.php:42
+#: template-parts/hypermarket-post-meta.php:18
+msgid "by"
+msgstr "由"
+
+#: loop-templates/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "似乎没有找到您想要的。试试搜索查找吧亲。"
+
+#: loop-templates/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "很抱歉，没有找到相关商品，换个关键词搜索试试吧亲。"
+
+#: loop-templates/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布你的第一篇文章了吗? <a href=\"%1$s\">点击这里开始</a>。"
+
+#: loop-templates/content-none.php:13
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: loop-templates/content-post.php:51 loop-templates/content-author.php:66
+#: template-parts/hypermarket-post-entry.php:37
+msgid "in"
+msgstr "在"
+
+#: loop-templates/content-author.php:63
+msgid " ago"
+msgstr " 之前"
+
+#: loop-templates/content-author.php:51
+msgid "Posts by"
+msgstr "文章由"
+
+#: loop-templates/content-author.php:22
+msgid "About:"
+msgstr "关于："
+
+#: includes/woocommerce-template-functions.php:657
+msgid "Back To Cart"
+msgstr "回到购物车"
+
+#: includes/woocommerce-template-functions.php:124
+msgid "Sale"
+msgstr "活动"
+
+#: includes/extras.php:193
+msgid " | Get %1$s for free."
+msgstr "|免费获取%1$s。"
+
+#: includes/extras.php:190
+msgid "Y"
+msgstr "Y"
+
+#: includes/extras.php:173
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: includes/classes/class-woocommerce.php:407
+msgctxt "placeholder"
+msgid "Confirm password*"
+msgstr "再次确认密码（必填）"
+
+#: includes/classes/class-woocommerce.php:398
+msgctxt "placeholder"
+msgid "Password*"
+msgstr "密码（必填）"
+
+#: includes/classes/class-woocommerce.php:384
+msgctxt "placeholder"
+msgid "Username*"
+msgstr "用户名（必填）"
+
+#: includes/classes/class-woocommerce.php:297
+#: includes/classes/class-woocommerce.php:369
+#: includes/classes/class-woocommerce.php:516
+msgctxt "placeholder"
+msgid "City*"
+msgstr "城市（必填）"
+
+#: includes/classes/class-woocommerce.php:289
+#: includes/classes/class-woocommerce.php:361
+#: includes/classes/class-woocommerce.php:508
+msgctxt "placeholder"
+msgid "ZIP code*"
+msgstr "邮政编码（必填）"
+
+#: includes/classes/class-woocommerce.php:281
+#: includes/classes/class-woocommerce.php:353
+#: includes/classes/class-woocommerce.php:500
+msgctxt "placeholder"
+msgid "State*"
+msgstr "县/区（必填）"
+
+#: includes/classes/class-woocommerce.php:273
+#: includes/classes/class-woocommerce.php:345
+#: includes/classes/class-woocommerce.php:492
+msgctxt "placeholder"
+msgid "Country*"
+msgstr "国家(必填）"
+
+#: includes/classes/class-woocommerce.php:265
+#: includes/classes/class-woocommerce.php:337
+#: includes/classes/class-woocommerce.php:484
+msgctxt "placeholder"
+msgid "Company"
+msgstr "公司名称（-可不填-）"
+
+#: includes/classes/class-woocommerce.php:257
+#: includes/classes/class-woocommerce.php:329
+#: includes/classes/class-woocommerce.php:476
+msgctxt "placeholder"
+msgid "Address 2"
+msgstr "地址2（-可不填-）"
+
+#: includes/classes/class-woocommerce.php:249
+#: includes/classes/class-woocommerce.php:321
+#: includes/classes/class-woocommerce.php:468
+msgctxt "placeholder"
+msgid "Address 1*"
+msgstr "地址（必填）"
+
+#: includes/classes/class-woocommerce.php:241
+#: includes/classes/class-woocommerce.php:543
+msgctxt "placeholder"
+msgid "Phone*"
+msgstr "手机（必填）"
+
+#: includes/classes/class-woocommerce.php:233
+#: includes/classes/class-woocommerce.php:535
+msgctxt "placeholder"
+msgid "Email*"
+msgstr "电子邮箱（必填）"
+
+#: includes/classes/class-woocommerce.php:225
+#: includes/classes/class-woocommerce.php:313
+#: includes/classes/class-woocommerce.php:460
+msgctxt "placeholder"
+msgid "Last name*"
+msgstr "名字（必填）"
+
+#: includes/classes/class-woocommerce.php:217
+#: includes/classes/class-woocommerce.php:305
+#: includes/classes/class-woocommerce.php:452
+msgctxt "placeholder"
+msgid "First name*"
+msgstr "姓氏（必填）"
+
+#: includes/classes/class-woocommerce.php:201
+msgid "Leave Review"
+msgstr "发表点评"
+
+#: includes/classes/class-woocommerce.php:199
+msgid "Review*"
+msgstr "评论（必填）"
+
+#: includes/classes/class-woocommerce.php:195
+msgid "Very poor"
+msgstr "很差"
+
+#: includes/classes/class-woocommerce.php:194
+msgid "Not that bad"
+msgstr "还好"
+
+#: includes/classes/class-woocommerce.php:193
+msgid "Average"
+msgstr "一般"
+
+#: includes/classes/class-woocommerce.php:192
+msgid "Good"
+msgstr "良好"
+
+#: includes/classes/class-woocommerce.php:191
+msgid "Perfect"
+msgstr "完美"
+
+#: includes/classes/class-woocommerce.php:190
+msgid "Rate*"
+msgstr "评分（必填）"
+
+#: includes/classes/class-woocommerce.php:189
+msgid "Your Rating"
+msgstr "你的评分"
+
+#: includes/classes/class-woocommerce.php:178
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "成为第一个评论&ldquo;%s&rdquo;的人"
+
+#: includes/classes/class-woocommerce.php:178
+msgid "Leave a review"
+msgstr "留下评论"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "索搜"
+
+#: searchform.php:11 includes/classes/class-woocommerce.php:149
+msgid "Search for:"
+msgstr "搜索："
+
+#: includes/classes/class-social-icons-widget.php:168
+msgid "Icon URL %1$s:"
+msgstr "图标网址%1$s："
+
+#: includes/classes/class-social-icons-widget.php:163
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/classes/class-social-icons-widget.php:162
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/classes/class-social-icons-widget.php:161
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: includes/classes/class-social-icons-widget.php:160
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/classes/class-social-icons-widget.php:159
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/classes/class-social-icons-widget.php:158
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: includes/classes/class-social-icons-widget.php:157
+msgid "Instagram"
+msgstr "Instagram"
+
+#: includes/classes/class-social-icons-widget.php:156
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: includes/classes/class-social-icons-widget.php:155
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/classes/class-social-icons-widget.php:101
+msgid "Follow Us"
+msgstr "关注我们"
+
+#: includes/classes/class-social-icons-widget.php:30
+msgid "A simple widget that displays social network icons."
+msgstr "一个显示社交网络图标的简单小工具。"
+
+#: includes/classes/class-social-icons-widget.php:27
+msgid "Social Icons"
+msgstr "社交图标"
+
+#: includes/classes/class-payment-method-icons-widget.php:136
+msgid "SSL Certificate"
+msgstr "SSL证书"
+
+#: includes/classes/class-payment-method-icons-widget.php:135
+msgid "American Express"
+msgstr "美国运通公司（American Express）"
+
+#: includes/classes/class-payment-method-icons-widget.php:134
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/classes/class-payment-method-icons-widget.php:133
+msgid "MasterCard"
+msgstr "万事达卡"
+
+#: includes/classes/class-payment-method-icons-widget.php:132
+msgid "Skrill"
+msgstr "Skrill"
+
+#: includes/classes/class-payment-method-icons-widget.php:131
+msgid "Visa"
+msgstr "Visa卡"
+
+#: includes/classes/class-payment-method-icons-widget.php:130
+#: includes/classes/class-social-icons-widget.php:154
+msgid "Select"
+msgstr "选择"
+
+#: includes/classes/class-payment-method-icons-widget.php:127
+#: includes/classes/class-social-icons-widget.php:151
+msgid "Icon %1$s:"
+msgstr "图标%1$s："
+
+#: includes/classes/class-payment-method-icons-widget.php:117
+#: includes/classes/class-social-icons-widget.php:145
+msgid "Title"
+msgstr "标题"
+
+#: includes/classes/class-payment-method-icons-widget.php:96
+msgid "Pay Secure"
+msgstr "安全支付"
+
+#: includes/classes/class-payment-method-icons-widget.php:30
+msgid "A simple widget that displays payment method icons."
+msgstr "显示付款方式图标的简单窗口小工具。"
+
+#: includes/classes/class-payment-method-icons-widget.php:27
+msgid "Payment Method Icons"
+msgstr "付款方式图标"
+
+#: includes/classes/class-hypermarket.php:229
+msgid "Widgetized Footer Area %d."
+msgstr "页脚小工具区域 %d."
+
+#: includes/classes/class-hypermarket.php:227
+msgid "Footer %d"
+msgstr "页脚%d"
+
+#: includes/classes/class-hypermarket.php:218
+msgid "Widgets added to this region will appear in shop archive pages."
+msgstr "添加到此区域的小工具将显示在商店归档页面中。"
+
+#: includes/classes/class-hypermarket.php:216
+msgid "Shop Sidebar"
+msgstr "店铺侧边栏"
+
+#: includes/classes/class-hypermarket.php:115
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:642
+msgid "Dismiss this notice."
+msgstr "忽略此通知。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:638
+msgid "Install and activate %s to start your e-commerce website now!"
+msgstr "现在安装并激活 %s 以启动您的电子商务站点！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:635
+msgid "Hypermarket is almost ready to help you start selling :)"
+msgstr "Hypermarket已经准备好帮你开始卖东西了 :)"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:599
+msgid "Get the Tips"
+msgstr "获取提示"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:597
+msgid "Welcome to the Hypermarket theme! Clearly, you have impeccable taste in WooCommerce themes; we salute your fine choice!"
+msgstr "欢迎来到Hypermarket主题！显然，您在WooCommerce主题中无可挑剔的品味;我们向您的良好选择致敬！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:596
+msgid "WooHoo! :)"
+msgstr "呜呼！ :)"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:556
+msgid "Respond to any code review feedback."
+msgstr "回应任何代码审查反馈"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:555
+msgid "Create a new PR in GitHub."
+msgstr "在GitHub中创建一个新的PR"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:554
+msgid "Push to your origin repository."
+msgstr "推送到您的原始存储库。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:553
+msgid "Do the work, write good commit messages, and read the CONTRIBUTING file if there is one."
+msgstr "做工作，写出好的提交信息，如果有的话，请阅读CONTRIBUTING文件。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:552
+msgid "Branch for each separate piece of work."
+msgstr "分支为每个单独的工作。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:551
+msgid "Create an upstream remote and sync your local copy before you branch."
+msgstr "在分支之前创建上游远程并同步本地副本。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:550
+msgid "Fork the project & clone locally."
+msgstr "在本地Fork并Clone项目"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:547
+msgid "The fundamentals are:"
+msgstr "基本面是："
+
+#: includes/classes/class-hypermarket-welcome-screen.php:542
+msgid ".mo: This is the \"machine object file.\" When your translation is complete, you will convert or export your .po file to this file type so that WordPress can use it."
+msgstr ".mo：这是“机器对象文件”。翻译完成后，您将.po文件转换或导出到此文件类型，以便WordPress可以使用它。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:541
+msgid ".po: The \"portable object\" file contains the original text and the translations."
+msgstr ".po：“便携式对象”文件包含原始文本和翻译。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:540
+msgid ".pot: This file is a \"portable object template\" that contains all of the text to be translated."
+msgstr ".pot：该文件是一个“可移植对象模板”，其中包含所有要翻译的文本。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:537
+msgid "Files that enable translation"
+msgstr "支持翻译的文件"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:533
+msgid "Our top priority is that you have a great experience with us and learn to create amazing code-free websites quickly."
+msgstr "我们的首要任务是，您有一个伟大的经验与我们，并学习创建惊人的免费站点快速。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:532
+msgid "As you might have already gathered, we love hearing your feedback, And you seem to love giving it!"
+msgstr "您可能已经收集了，我们喜欢听你的反馈，而且您似乎喜欢给予它！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:501
+msgid "HTML5 Number polyfill - A polyfill for implementing the HTML5 number element in browsers that do not currently support it"
+msgstr "HTML5 Number polyfill  - 用于在目前不支持HTML5浏览器中实现HTML5数字元素的polyfill"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:500
+msgid "Skip link focus - Helps with accessibility for keyboard only users"
+msgstr "Skip link focus - 有助于仅键盘用户的辅助功能"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:499
+msgid "WooCommerce - An open source eCommerce plugin for WordPress"
+msgstr "WooCommerce  -  WordPress的开源电子商务插件"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:498
+msgid "WP Bootstrap Navwalker - A custom WordPress nav walker class"
+msgstr "WP Bootstrap Navwalker  - 一个自定义WordPress导航步行者类"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:497
+msgid "UnderStrap - Combines Automattics Underscores Starter Theme and Bootstrap 4"
+msgstr "UnderStrap  - 结合 Automattics Underscores Starter主题和Bootstrap 4"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:496
+msgid "Material Design Icons - Icon font for the web"
+msgstr "Material Design Icons - 网页图标字体"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:495
+msgid "matchHeight - makes the height of all selected elements exactly equal"
+msgstr "matchHeight  - 使所有选定元素的高度完全相等"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:494
+msgid "Waves - Click effect inspired by Googles Material Design"
+msgstr "Waves - 点击效果灵感来源于Google Googles Material Design"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:493
+msgid "Smooth Scroll - An extension for smooth scrolling in Google Chrome"
+msgstr "Smooth Scroll -在Google Chrome中平滑滚动的扩展"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:492
+msgid "Velocity.js - Accelerated JavaScript animation"
+msgstr "Velocity.js  - 加速JavaScript动画"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:491
+msgid "Bootstrap - Most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web"
+msgstr "Bootstrap  - 最流行的HTML，CSS和JS框架，用于在网络上开发响应式，移动的第一个项目"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:490
+msgid "Modernizr - JavaScript library that detects HTML5 and CSS3 features in the users browser"
+msgstr "Modernizr  -  JavaScript库，用于检测用户浏览器中的HTML5和CSS3功能"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:489
+msgid "jQuery - most popular feature-rich JavaScript library"
+msgstr "jQuery  - 最流行的功能丰富的JavaScript库"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:488
+msgid "Bourbon - A simple and lightweight mixin library for Sass"
+msgstr "Bourbon - 简介轻便的mixin Sass库"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:486
+msgid "While making Hypermarket theme, we used third-party plugins and resources, and want to thank their creators:"
+msgstr "在制作Hypermarket主题时，我们使用了第三方插件和资源，并希望感谢他们的创作者："
+
+#: includes/classes/class-hypermarket-welcome-screen.php:484
+msgid "Resources & Reference"
+msgstr "资源与参考"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:470
+msgid "Contribute in the style of the project to the best of your abilities. This may mean using indents, semi colons or comments differently than you would in your own repository."
+msgstr "以最好的能力为项目的风格作出贡献。这可能意味着使用不同于您自己的存储库中的缩进，分号或注释。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:469
+msgid "If changes are visual and related to any aspects of user interface be sure to include screenshots of the before and after if your changes include differences in HTML/CSS."
+msgstr "如果更改是可视化的，并且与用户界面的任何方面相关，请确保包含前后的屏幕截图，如果您的更改包含HTML / CSS中的差异。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:468
+msgid "It is best to test. Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don not break the existing Hypermarket project or have any conflicts with WordPress or WooCommerce functionality."
+msgstr "最好是测试。如果现有测试存在，请对所做的更改进行运行，并在需要时创建新的测试。无论测试是否存在，请确保您的更改不会破坏现有的Hypermarket项目，或与WordPress或WooCommerce功能发生任何冲突。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:467
+msgid "Be clear about what problem is occurring and how someone can recreate that problem or why your feature will help. Then be equally as clear about the steps you took to make your changes."
+msgstr "要清楚发生了什么问题，以及有人可以重新创建这个问题，或者为什么您的功能有所帮助。那么对于您进行更改所采取的步骤同样清楚。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:466
+msgid "Create a branch for your edits."
+msgstr "为您的编辑创建一个分支。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:464
+msgid "UpStream generally refers to the original repo that you have forked."
+msgstr "UpStream（上游）通常指您已经分叉的原始库。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:463
+msgid "Fork the Hypermarket theme repository and clone it locally. Connect your local to the original \"upstream\" repository by adding it as a remote. Pull in changes from \"upstream\" often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely."
+msgstr " 分叉Hypermarket主题库并将其克隆到本地库。通过将您本地库添加为远程连接将本地库连接到原始的“upstream”（上游）存储库。经常从“upstream”（上游）中引入更改，以便您保持最新，以便在提交您的拉取请求时，合并冲突将不太可能。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:461
+msgid "Pull Request Pro Tips"
+msgstr "拉请求专业提示"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:459
+msgid "Once you have submitted a pull request we can compare your branch to the existing one and decide whether or not to incorporate (pull in) your changes."
+msgstr "一旦您提交了拉动请求，我们可以将您的分支与现有分支进行比较，并决定是否纳入（拉入）您的更改。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:458
+msgid "If you are able to patch the bug or add the feature yourself - fantastic, make a pull request with the code!"
+msgstr "如果您能够自己修补错误或添加功能 - 太棒了，请使用代码提取请求！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:457
+msgid "Pull Request (PR)"
+msgstr "拉请求专业提示"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:454
+msgid "Paste error output or logs in your issue or in a Gist. If pasting them in the issue, wrap it in three backticks: ``` so that it renders nicely."
+msgstr "在您的问题或Gist中粘贴错误输出或日志。如果把它们粘贴在这个问题中，就把它放在三个反引号（```）里：这样它很好地呈现。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:453
+msgid "Take your time to post as much information about your issue and server environment if it is possible."
+msgstr "如果可能的话，请花点时间发布有关您的问题和服务器环境的信息。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:452
+msgid "Make sure the title of your issue report explains shortly what is going on."
+msgstr "确保您的问题报告的标题能解释状况。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:451
+msgid "Be clear about what your problem is: what was the expected outcome, what happened instead? Detail how someone else can recreate the problem."
+msgstr "要清楚你的问题是什么：预期的结果是什么？详细说明别人如何重新创建问题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:450
+msgid "Check existing issues for your issue. Duplicating an issue is slower for both parties so search through open and closed issues to see if what you are running into has been addressed already."
+msgstr "请检查您的问题是否有现有问题。双重问题的复制速度较慢，因此可以索搜开放和封闭的问题来查看是否已经解决了您遇到的问题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:448
+msgid "Issues Pro Tips"
+msgstr "问题提示"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:446
+msgid "If you find a bug in a Hypermarket theme functionality (and you do not know how to fix it), have trouble following the documentation or have a question about the Hypermarket theme hooks (filters and actions) - create an issue! There is nothing to it and whatever issue you are having, you are likely not the only one, so others will find your issue helpful, too."
+msgstr "如果您在Hypermarket主题功能中发现错误（并且您不知道如何解决此问题），则无法按照文档或有关于Hypermarket主题挂钩（过滤器和操作）的问题 - 创建问题！没有什么可以和任何问题，你可能不是唯一的，所以其他人也会发现你的问题也有帮助。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:445
+msgid "Create an Issue"
+msgstr "新增一个问题"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:442
+msgid "Now that you have found the Hypermarket theme useful, here is how you can take action."
+msgstr "现在，您已经发现大卖场主题很有用，以下是您如何采取行动。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:440
+msgid "Contribute to Hypermarket"
+msgstr "贡献给Hypermarket"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:436
+#: includes/classes/class-hypermarket-welcome-screen.php:443
+msgid "GitHub Development Repository"
+msgstr "GitHub开发库"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:435
+msgid "For translations of our Hypermarket theme just push the files to the main repository for all Hypermarket code, and we will include the translation files within your name and credit to the next release, so other people who speak your language can use it."
+msgstr "对于我们的Hypermarket主题的翻译，只需将文件推送到所有Hypermarket代码的主存储库，我们将在您的名称中包含翻译文件并将其记入下一个版本，因此其他使用您语言的人可以使用它。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:434
+msgid "In case you have already translated Hypermarket theme a lot of users would be thrilled if you share your translation files with the community."
+msgstr "如果您已经翻译了Hypermarket主题，如果您与社区共享您的翻译文件，很多用户将会很高兴。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:433
+msgid "Share your Language Files"
+msgstr "分享您的语言文件"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:431
+msgid "Hypermarket WPML Certification Badge"
+msgstr "Hypermarket WPML认证徽章"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:430
+msgid "Hypermarket theme is fully compatible and tested with most popular WordPress plugin that supports the creation of multilingual layouts. Translate your website into any language with WPML!"
+msgstr "Hypermarket主题是完全兼容和测试与最流行的WordPress插件，支持创建多语言布局。使用WPML将您的站点翻译成任何语言！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:429
+msgid "WPML & Translation Ready"
+msgstr "WPML&翻译就绪"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:427
+msgid "How to translate Hypermarket theme with Poedit?"
+msgstr "如何用Poedit翻译Hypermarket主题？"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:426
+msgid "MO files just compiled exports from the PO files and used by WordPress to get the conversion of each string to translate the theme. If you try to open a MO file with a regular text editor, you will not understand anything of its content."
+msgstr "MO文件刚刚从PO文件编译出来，并由WordPress用来获取每个字符串的转换来翻译主题。如果您尝试使用常规文本编辑器打开MO文件，则不会了解其任何内容。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:425
+msgid "PO files are human-readable; Those files contains a list of strings ready to be translated or with a translation already included."
+msgstr "PO文件是人类可读的;这些文件包含可以翻译或已经包含翻译的字符串列表。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:424
+msgid "WordPress uses PO and MO files to manage translations. In fact, WordPress only needs MO files to handle translations."
+msgstr "WordPress使用PO和MO文件来管理翻译。事实上，WordPress只需要MO文件来处理翻译。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:423
+msgid "What are PO and MO translation files?"
+msgstr "什么是PO和MO翻译文件？"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:421
+msgid "If you need more advanced features such as translating menu items, categories, etc. Feel free to visit WPML website and find out more about their premium services and plugin."
+msgstr "如果您需要更多高级功能，例如翻译菜单项，类别等，请随时访问WPML站点，并了解更多有关其优质服务和插件的信息。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:420
+msgid "Hypermarket WordPress theme is translation-ready and localized using the GNU framework. It is the common way to translate WordPress core and almost any theme or plugin."
+msgstr "Hypermarket WordPress主题是使用GNU框架进行翻译准备和本地化的。翻译WordPress核心和几乎任何主题或插件的常见方式。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:418
+msgid "Translate Hypermarket theme into any language"
+msgstr "将Hypermarket主题翻译成任何语言"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:414
+msgid "Theme Documentation"
+msgstr "主题文档"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:413
+msgid "Before you get started, please be sure always to check out theme documentation files. We outline all kinds of useful information and provide you with all the details you need know to use Hypermarket Theme."
+msgstr "在开始之前，请务必始终查看主题文档文件。我们概述各种有用的信息，并提供您需要知道的所有使用Hypermarket主题的详细信息。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:412
+msgid "View full documentation"
+msgstr "查看全部文档"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:410
+msgid "We look forward to listening to you and continuing our development of the Hypermarket theme."
+msgstr "我们期待着倾听您的意见，继续开发Hypermarket主题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:407
+msgid "MyPreview Support Forum"
+msgstr "MyPreview支持论坛"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:404
+msgid "To post your issues in the forum, please navigate to:"
+msgstr "要在论坛中发布您的问题，请浏览："
+
+#: includes/classes/class-hypermarket-welcome-screen.php:403
+msgid "To keep doing this well, we kindly request that you post discussions and feedback(s) in our dedicated forum whenever possible, rather than in the WordPress community forum. Doing so will allow us to leverage support team and tools to answer your questions as quickly as possible. "
+msgstr "为了继续这样做，我们诚挚地要求您尽可能在我们专门的论坛上发表讨论和反馈，而不是在WordPress社区论坛上发表。这样做将使我们能够利用支持团队和工具来尽快回答您的问题 。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:402
+msgid "Thanks so much for downloading and using the Hypermarket theme and providing positive feedback(s). The WordPress community has helped us a lot to improve the Hypermarket theme and make it compatible with more plugins and third-parties."
+msgstr "非常感谢您下载和使用超市主题并提供积极的反馈。 WordPress社区帮助我们改进了大型超市的主题，使其与更多的插件和第三方兼容。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:400
+msgid "Support and Documentation"
+msgstr "支持与文档"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:109
+msgid "Hypermarket theme is fully compatible with the WooCommerce plugin for WordPress. It includes full design integration of the WooCommerce pages, shortcodes, and widgets."
+msgstr "Hypermarket主题与WordPress的WooCommerce插件完全兼容。它包括WooCommerce页面，短代码和小工具的完全设计集成。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:107
+msgid "WooCommerce - A powerful, extendable eCommerce plugin that helps you sell anything"
+msgstr "WooCommerce  - 功能强大，可扩展的电子商务插件，可帮助您销售任何东西"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:101
+msgid "Recommended & Integrated Plugins"
+msgstr "推荐和集成插件"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:99
+msgid "You are on your way to super-productivity and beyond!"
+msgstr "您正在提高生产力！"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:98
+msgid "Thanks so much for joining us and using our excellent Hypermarket theme."
+msgstr "非常感谢您加入并使用我们优秀的Hypermarket主题。"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:96
+msgid "This is where it all begins"
+msgstr "从这里开始"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:93
+#: includes/classes/class-hypermarket-welcome-screen.php:481
+msgid "Click to toggle"
+msgstr "点击切换"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:85
+msgid "Contribute"
+msgstr "贡献"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:84
+msgid "Translate"
+msgstr "翻译"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:83
+msgid "Support"
+msgstr "支持"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:78
+msgid "Welcome"
+msgstr "欢迎"
+
+#: includes/classes/class-hypermarket-welcome-screen.php:59
+#: includes/classes/class-hypermarket-welcome-screen.php:76
+msgid "Welcome to Hypermarket Theme"
+msgstr "欢迎使用Hypermarket主题"
+
+#: includes/classes/class-customizer.php:80
+msgid "Display Site Tagline"
+msgstr "显示站点标语"
+
+#: includes/classes/class-customizer.php:53
+#: includes/classes/class-customizer.php:68
+msgid "Works on small screen devices only!"
+msgstr "只适用于小屏幕设备！"
+
+#: includes/classes/class-customizer.php:67
+msgid "Site Title"
+msgstr "站点标题"
+
+#: includes/classes/class-bootstrap-navwalker.php:163
+msgid "Add a menu"
+msgstr "新增菜单"
+
+#: includes/back-compat.php:42 includes/back-compat.php:55
+#: includes/back-compat.php:71
+msgid "Hypermarket requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Hypermarket 至少需要 WordPress 版本 4.7。您正在运行版本 %s。请升级并重试一次。"
+
+#: comments.php:118
+msgid "Leave Comment"
+msgstr "留下评论"
+
+#: comments.php:110
+msgid "Be the first to comment &ldquo;%s&rdquo;"
+msgstr "在《%s》上留下第一个评论"
+
+#: comments.php:109
+msgid "Comment*"
+msgstr "评论（必填）"
+
+#: includes/classes/class-woocommerce.php:199
+msgid "Comment"
+msgstr "评论"
+
+#: includes/classes/class-woocommerce.php:186 comments.php:102
+msgid "Email*"
+msgstr "电子邮箱（必填）"
+
+#: includes/classes/class-woocommerce.php:186 comments.php:102
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/classes/class-woocommerce.php:184 comments.php:100
+msgid "Name*"
+msgstr "名字（必填）"
+
+#: includes/classes/class-woocommerce.php:184 comments.php:100
+msgid "Name"
+msgstr "名称"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: comments.php:58 comments.php:80
+msgid "Newer Comments &rarr;"
+msgstr "较新的评论 &rarr;"
+
+#: comments.php:54 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; 较旧的评论"
+
+#: comments.php:52 comments.php:74
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s条评论"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "《%s》有一条评论"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "在每月存档里找 %1$s"
+
+#: 404.php:29
+msgid "Most Used Categories"
+msgstr "常用类别"
+
+#: 404.php:16
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "这里什么都没有找到。也许您可以试试下面的链接，或者搜索一下?"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
+
+#. Theme URI of the theme
+msgid "https://www.mypreview.one/hypermarket-plus.html"
+msgstr "https://www.mypreview.one/hypermarket-plus.html"
+
+#. Author URI of the theme
+msgid "https://www.mypreview.one"
+msgstr "https://www.mypreview.one"
